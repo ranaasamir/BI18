@@ -12,5 +12,6 @@ Rana Samir: My zodiac sign is Aquarius.
 Amr Samih: A corrupted young mind at the age of twenty.
 Farah Ahmed: My hobbies are photography and reading.
 Ingy Ahnad: Green is my favourite colour.
+Aya Gougou: I like to listen to rock music.
 
 The purpose of the repository is to gather information about the authors of the whole tutorial.
