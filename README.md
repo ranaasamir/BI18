@@ -8,8 +8,8 @@ About:
 
 Nourhan Algendy: I am a BI student in the Guc , my favourite subjects are Enterprise Resource planning and E-business.
 Karim Wael: I am a BI student at the German University in Cairo and i am a deep-house addict and an auto geek. 
-Rana Samir: I'm an Aquarius
-Amr Samih: A corrupted young mind at the age of twenty
+Rana Samir: My zodiac sign is Aquarius.
+Amr Samih: A corrupted young mind at the age of twenty.
 Farah Ahmed: My hobbies are photography and reading.
 
 The purpose of the repository is to gather information about the authors of the whole tutorial.
