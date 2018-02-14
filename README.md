@@ -11,5 +11,6 @@ Karim Wael: I am a BI student at the German University in Cairo and i am a deep-
 Rana Samir: My zodiac sign is Aquarius.
 Amr Samih: A corrupted young mind at the age of twenty.
 Farah Ahmed: My hobbies are photography and reading.
+Ingy Ahnad: Green is my favourite colour.
 
 The purpose of the repository is to gather information about the authors of the whole tutorial.
