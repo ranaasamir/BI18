@@ -3,8 +3,8 @@
 Project Title:
 Sprint 0
 
-About:
 
 
 Seif Hatem 37-0958
 Mona Askary 37-1178
+Nourhan Algendy 37-6811
