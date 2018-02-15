@@ -4,6 +4,9 @@ Project Title:
 Sprint 0
 
 About:
+------
 
-mohamed abdelfattah: BI student and i like football.
-The purpose of the repository is to gather information about the authors of the whole tutorial.
+- Mohamed abdelfattah: BI student and i like football.
+- Robert Shenouda: A BI student who loves music.'
+
+- The purpose of the repository is to gather information about the authors of the whole tutorial.
