@@ -5,14 +5,10 @@ Sprint 0
 
 About:
 
-
-Nourhan Algendy: I am a BI student in the Guc , my favourite subjects are Enterprise Resource planning and E-business.
-Karim Wael: I am a BI student at the German University in Cairo and i am a deep-house addict and an auto geek. 
-Rana Samir: My zodiac sign is Aquarius.
-Amr Samih: A corrupted young mind at the age of twenty.
-Farah Ahmed: My hobbies are photography and reading.
 Ingy Ahmad (37-6355): Green is my favourite colour.
-Aya Gougou: I like to listen to rock music.
+
+Aya Gougou  37-270
+
 Louay Diaa: 50 percent of the time i'm sleeping.
 Martina Nashaat: BI student at the GUC..
 mohamed abdelfattah: BI student and i like football.
