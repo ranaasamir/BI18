@@ -6,7 +6,7 @@ Sprint 0
 About:
 
 Rana samir: I'm an Aquarius
-
+Doha Yasser: I'm a student with a GPA 2.5 and i want to get good grades this semester.
 
 Team members:
 
