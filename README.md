@@ -18,3 +18,4 @@ Martina Nashaat: BI student at the GUC..
 mohamed abdelfattah: BI student and i like football.
 Youssef Mostafa Anany: A GUC student who likes travelling.
 The purpose of the repository is to gather information about the authors of the whole tutorial.
+Farah Rezk: BI student that loves dogs.
