@@ -17,6 +17,7 @@ Louay Diaa: 50 percent of the time i'm sleeping
 Martina Nashaat: BI student at the GUC..
 mohamed abdelfattah: BI student and i like football.
 Youssef Mostafa Anany: A GUC student who likes travelling.
-The purpose of the repository is to gather information about the authors of the whole tutorial.
 Farah Rezk: BI student that loves dogs.
 Mounir Basta: Glory Glory ManUtd
+Robert Shenouda: A BI student who loves music.
+The purpose of the repository is to gather information about the authors of the whole tutorial.
