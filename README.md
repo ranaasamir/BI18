@@ -42,5 +42,7 @@ Kareem Adel : I love SE and dodgeball
 
 Meray Samy: A BI student at the GUC.
 
+Mario Ramsis: BI student at the GUC.
+
 The purpose of the repository is to gather information about the authors of the whole tutorial.
 
