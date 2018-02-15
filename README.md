@@ -17,7 +17,7 @@ Louay Diaa: 50 percent of the time i'm sleeping.
 Martina Nashaat: BI student at the GUC..
 mohamed abdelfattah: BI student and i like football.
 Youssef Mostafa Anany: A GUC student who likes travelling.
-Farah Rezk: BI student that loves dogs.
+Farah Rezk, 37-1810: BI student that loves dogs.
 Mounir Basta: Glory Glory ManUtd.
 Robert Shenouda: A BI student who loves music.
 Habiba Elkassed: 20 year old BI sudent 
