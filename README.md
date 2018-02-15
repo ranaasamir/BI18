@@ -44,5 +44,7 @@ Meray Samy: A BI student at the GUC.
 
 Mario Ramsis: BI student at the GUC.
 
+Yasmina Gamal: A BI student who loves reading.
+
 The purpose of the repository is to gather information about the authors of the whole tutorial.
 
