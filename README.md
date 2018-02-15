@@ -21,8 +21,9 @@ Farah Rezk: BI student that loves dogs.
 Mounir Basta: Glory Glory ManUtd.
 Robert Shenouda: A BI student who loves music.
 Habiba Elkassed: 20 year old BI sudent 
-The purpose of the repository is to gather information about the authors of the whole tutorial.
-
 Seif Hatem: BI student at the GUC..
 
-Kareem Adel : I love SE 
+Kareem Adel : I love SE and dodgeball
+
+The purpose of the repository is to gather information about the authors of the whole tutorial.
+
