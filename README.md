@@ -39,6 +39,8 @@
 
 *Seif Hatem: BI student at the GUC.*
 
+*Doha Yasser: I love colors Red and black.*
+
 *Kareem Adel: I love SE and dodgeball.*
 
 *Meray Samy: A BI student at the GUC.*
