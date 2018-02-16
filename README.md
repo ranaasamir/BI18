@@ -51,5 +51,7 @@
 
 *Mona Askary: A BI student who loves running and food.*
 
+*Shorouk Sherif: A feminist to the core, with some good music sprinkled on top.*
+
 ### The purpose of the repository is to gather information about the authors of the whole tutorial.
 
