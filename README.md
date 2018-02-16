@@ -39,7 +39,7 @@
 
 *Seif Hatem: BI student at the GUC..
 
-*Kareem Adel : I love SE and dodgeball
+*Kareem Adel: I love SE and dodgeball
 
 *Meray Samy: A BI student at the GUC.
 
@@ -47,9 +47,9 @@
 
 *Yasmina Gamal: A BI student who loves reading.
 
-*Yousef Hamdy :A music addict who loves to explore.
+*Yousef Hamdy: A music addict who loves to explore.
 
-*Mona Askary : A BI student who loves running and food.
+*Mona Askary: A BI student who loves running and food.
 
-###The purpose of the repository is to gather information about the authors of the whole tutorial.
+### The purpose of the repository is to gather information about the authors of the whole tutorial.
 
