@@ -7,7 +7,7 @@
 ----------
 
 
-*Nourhan Algendy: I am a BI student in the Guc , my favourite subjects are Enterprise Resource planning and E-business.
+*Nourhan Algendy: I am a BI student in the Guc , my favourite subjects are Enterprise Resource planning and E-business.*
 
 *Karim Wael: I am a BI student at the German University in Cairo and i am a deep-house addict and an auto geek. 
 
